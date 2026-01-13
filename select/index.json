@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Starburst",
+  "base_artist": "Fear, and Loathing in Las Vegas",
+  "createdAt": "2026-01-13T23:29:48.223884Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Starburst",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": true,
+      "path": "select/01_Starburst_Fear,_and_Loathing_in_Las_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "STARBURST",
+      "artist": "Unusual Demont",
+      "has_synced": true,
+      "path": "select/02_STARBURST_Unusual_Demont.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Starburst",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": true,
+      "path": "select/03_Starburst_Fear,_and_Loathing_in_Las_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "pink starburst",
+      "artist": "Nightly",
+      "has_synced": true,
+      "path": "select/04_pink_starburst_Nightly.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Starburst",
+      "artist": "Hi-5",
+      "has_synced": false,
+      "path": "select/05_Starburst_Hi-5.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Starburst",
+      "artist": "Rios Mios",
+      "has_synced": true,
+      "path": "select/06_Starburst_Rios_Mios.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "starburst (feat. floomie)",
+      "artist": "Tuv",
+      "has_synced": true,
+      "path": "select/07_starburst_(feat._floomie)_Tuv.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "STARBURST",
+      "artist": "Wetemuh",
+      "has_synced": false,
+      "path": "select/08_STARBURST_Wetemuh.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Starburst",
+      "artist": "Sofia Kay",
+      "has_synced": true,
+      "path": "select/09_Starburst_Sofia_Kay.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "starburst",
+      "artist": "tuv",
+      "has_synced": true,
+      "path": "select/10_starburst_tuv.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Strawberry Starburst",
+      "artist": "Candi Carpenter",
+      "has_synced": true,
+      "path": "select/11_Strawberry_Starburst_Candi_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "スターバースト (Starburst)",
+      "artist": "Uplift Spice",
+      "has_synced": true,
+      "path": "select/12_スターバースト_(Starburst)_Uplift_Spice.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Starburst",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": false,
+      "path": "select/pl_01_Starburst_Fear,_and_Loathing_in_Las_Vegas.txt"
+    }
+  ]
+}
